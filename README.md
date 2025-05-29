@@ -1,6 +1,6 @@
 # CodeAlpha - Automated File Management
 
-📂 A simple and smart Python project that automatically organizes your files into folders based on file types. Built with 💙 by Preethi.
+📂 A simple and smart Python project that automatically organizes your files into folders based on file types. Built with 💙 by Nagaveni.
 
 ## 🚀 Features
 
